@@ -1,0 +1,22 @@
+{
+    "name": "goodpeople-dancingcube-client",
+    "version": "0.0.1",
+    "description": "Performance oriented JavaScript.",
+    "main": "src/goodpeople-dancingcube-client.js",
+    "files": ["src/", "dist/", "LICENSE", "README"],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JohnPittman/goodpeople-dancingcube-client.git"
+    },
+    "keywords": ["fast", "optimized", "umd", "universal", "modular", "js", "module", "javascript", "chickendinosaur", "goodpeople-dancingcube-client"],
+    "author": "John Pittman",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/JohnPittman/goodpeople-dancingcube-client/issues"
+    },
+    "homepage": "https://github.com/JohnPittman/goodpeople-dancingcube-client",
+    "devDependencies": {
+        "gulp": "*",
+        "packagebuilder": "*"
+    }
+}
